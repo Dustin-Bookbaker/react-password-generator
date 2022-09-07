@@ -4,9 +4,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Grab the App:
+
+Clone the Repository, more information [here](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories).
 
 In the project directory, you can run:
+
+### `npm i`
+
+to install the required packages, afterwards:
 
 ### `npm start`
 
